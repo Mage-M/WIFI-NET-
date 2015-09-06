@@ -24,4 +24,4 @@ WIFIAP的状态获取：
                        
  (4)  WIFI_STATE_ENABLING
 
-分别
+分别代表
